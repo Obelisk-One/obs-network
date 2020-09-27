@@ -1,0 +1,23 @@
+{
+  "name": "OBS",
+  "id": "obelisk",
+  "bootNodes": [
+  ],
+  "telemetryEndpoints": null,
+  "protocolId": "obs",
+  "properties": {
+    "ss58Format": 50,
+    "tokenDecimals": 12,
+    "tokenSymbol": "OBS",
+    "linkDecimals": 12,
+    "linkSymbol": "LINK"
+  },
+  "consensusEngine": null,
+  "genesis": {
+    "raw": {
+      "top": {
+      },
+      "childrenDefault": {}
+    }
+  }
+}
